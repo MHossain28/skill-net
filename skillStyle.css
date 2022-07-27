@@ -1,0 +1,18 @@
+/* slider start  */
+.carousel-item img{
+    height: 400px;
+    border-radius: 10px;
+}
+.carousel-caption{
+    top: 30%;
+    bottom: 40%;
+    height: 30%;
+    z-index: 2;
+    letter-spacing: 0.1em;
+}
+.carousel-caption h5{
+    font-size: 1.8em;
+}
+.carousel-caption p{
+    font-size: 0.8em;
+}
